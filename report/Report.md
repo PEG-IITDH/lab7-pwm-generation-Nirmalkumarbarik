@@ -49,10 +49,12 @@ When increasing(decreasing) the duty cycle by 5% we must decrement(increment) th
 
 ![Fig 1 40% duty cycle](40dut.jpg)
 
-### Measurements and Results:
+![Fig 2 45% duty cycle](45dut.jpg)
 
-Oscilloscope waveforms, measurememtns, etc. go here.
+![Fig 3 50% duty cycle](50dut.jpg)
 
-### Discussion and Conclusions:
+![Fig 4 55% duty cycle](55dut.jpg)
 
-Did you get some unexpected behavior? Was there something that was not as expected? 
+![Fig 5 60% duty cycle](60dut.jpg)
+
+
