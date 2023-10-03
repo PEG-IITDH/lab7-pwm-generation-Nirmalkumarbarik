@@ -45,12 +45,9 @@ When increasing(decreasing) the duty cycle by 5% we must decrement(increment) th
 
        
 
-### Results:
+### Results
 
-
-![Duck](duck.png)
-
-Alternatively, there are [many](https://asciiflow.com/#/) [tools](https://textik.com/#1c607fbeaad12321) [to create](https://metacpan.org/dist/App-Asciio/view/lib/App/Asciio.pm) ASCII Diagrams and more complicated [graphics with mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/).
+<img src="report/40dut.jpg" alt="PWM signal on PF2 with default duty cycle of 40%" width="500"/>
 
 ### Measurements and Results:
 
