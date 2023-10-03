@@ -47,7 +47,7 @@ When increasing(decreasing) the duty cycle by 5% we must decrement(increment) th
 
 ### Results
 
-<img src="Lab7/report/40dut.jpg" alt="PWM signal on PF2 with default duty cycle of 40%" width="500"/>
+![Fig 1 40% duty cycle](40dut.jpg)
 
 ### Measurements and Results:
 
