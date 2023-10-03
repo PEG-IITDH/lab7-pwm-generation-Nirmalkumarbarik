@@ -47,19 +47,19 @@ When increasing(decreasing) the duty cycle by 5% we must decrement(increment) th
 ### Results
 
 ![Fig 1 40% duty cycle](40dut.jpg)
-* 40% duty cycle*
+* 40% duty cycle
 
 ![Fig 2 45% duty cycle](45dut.jpg)
-* 45% duty cycle*
+* 45% duty cycle
 
 ![Fig 3 50% duty cycle](50dut.jpg)
-* 50% duty cycle*
+* 50% duty cycle
 
 ![Fig 4 55% duty cycle](55dut.jpg)
-* 55% duty cycle*
+* 55% duty cycle
 
 ![Fig 5 60% duty cycle](60dut.jpg)
-* 60% duty cycle*
+* 60% duty cycle
 
 PWM signals of different duty cycle are generated.
 
